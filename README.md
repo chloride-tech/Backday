@@ -15,3 +15,4 @@
 - [Liquidbounce](https://liquidbounce.net)
 
 
+注意:修改《我的世界》客户端源代码属于违法行为
